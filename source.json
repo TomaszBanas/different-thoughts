@@ -5,7 +5,17 @@
     "data": [
         {
             "name": "Test",
-            "tags": [],
+            "tags": ["test01", "C#", "Javascript"],
+            "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Test/test.md"
+        },
+        {
+            "name": "Test 2",
+            "tags": ["test02"],
+            "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Test/test.md"
+        }
+        {
+            "name": "Test 3",
+            "tags": ["test03", "Javascript"],
             "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Test/test.md"
         }
     ]
