@@ -1,5 +1,12 @@
 {
-    "name": "Test",
-    "tags": [],
-    "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Test/test.md"
+    "_metadata": {
+
+    },
+    "data": [
+        {
+            "name": "Test",
+            "tags": [],
+            "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Test/test.md"
+        }
+    ]
 }
