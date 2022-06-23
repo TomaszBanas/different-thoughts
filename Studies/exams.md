@@ -8,7 +8,7 @@ I am working as a Programmer for 4 years know. And every year I know how much kn
 
 I do not say that every thing at university is worng. I have many laboratories where I have some task to accomplish and I could use both internet and and profesor for some advice. I learn something but not as much I hoped for. 
 
-And at the end of the semester my filings where scrawled with mud. When for three days I had to memorize almost 50 pages of information that **everyone** will forget the next day.
+And at the end of the semester my filings where scrawled with mud. When for three days I had to memorize almost 50 pages of information that **everyone** will forget it the next day.
 
 My country has one of the worst eniversities in whole world but it is free. But maybe it shouldn't be.
 
