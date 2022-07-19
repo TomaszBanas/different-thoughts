@@ -1,40 +1,42 @@
 # Bucket List
-[x] Go Skydiving
+        [x] Go Skydiving
 
-[x] Go to shooting range
+        [x] Go to shooting range
 
-[x] Go paintballing
+        [x] Go paintballing
 
-[x] Go kayaking
+        [x] Go kayaking
 
-[x] Go to a dance club and meet someone
+        [x] Go to a dance club and meet someone
 
-[x] Have a piercing
+        [x] Have a piercing
 
-[ ] Bungee
+        [ ] Bungee
 
-[ ]  Travel to America
+        [ ]  Travel to America
 
-[ ]  Go to Tomorrowland
+        [ ]  Go to Tomorrowland
 
-[ ]  Travel to Japan
+        [ ]  Travel to Japan
 
-[ ] Go on a Solo Travel Adventure
+        [ ] Go on a Solo Travel Adventure
+        
+        [ ] Travel First Class
 
-[ ] Visit a swinger’s club
+        [ ] Go to a  nude beach
 
-[ ] Travel First Class
+        [ ] Learn how to snowboard
 
-[ ] Go to a  nude beach
+        [ ] Create popular nuget package
 
-[ ] Learn how to snowboard
+        [ ] Work on a Pottery Wheel
 
-[ ] Create popular nuget package
+        [ ] Ride in a hot air balloon
 
-[ ] Try pottery
+        [ ] Go throwing axes
 
-[ ] Ride in a hot air balloon
+        [ ] Play poker with money
 
-[ ] Go throwing axes
+        [ ] Drink Kopi Luwak coffee
 
-[ ] Play poker with money
+        [ ] Race a Go Kart
