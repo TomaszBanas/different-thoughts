@@ -2,6 +2,16 @@
 
         [ ] Bungee
 
+        [ ] Go throwing axes
+
+        [ ] Play poker with money
+
+        [ ] Drink Kopi Luwak coffee
+
+        [ ] Race a Go Kart
+
+        [ ] Create popular nuget package
+
         [ ] Travel to America
 
         [ ] Go to Tomorrowland
@@ -12,23 +22,13 @@
 
         [ ] Travel First Class
 
-        [ ] Go to a  nude beach
+        [ ] Go to a nude beach
 
         [ ] Learn how to snowboard
-
-        [ ] Create popular nuget package
 
         [ ] Work on a Pottery Wheel
 
         [ ] Ride in a hot air balloon
-
-        [ ] Go throwing axes
-
-        [ ] Play poker with money
-
-        [ ] Drink Kopi Luwak coffee
-
-        [ ] Race a Go Kart
 
         [ ] Eat in restaurant with Michealin Star
 
