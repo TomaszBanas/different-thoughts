@@ -4,6 +4,11 @@
     },
     "data": [
         {
+            "name": "Bucket list",
+            "tags": ["BucketList"],
+            "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Other/BucketList.md"
+        },
+        {
             "name": "Why do we force poeple to memorize everythink?",
             "tags": ["Studies", "IT"],
             "source": "https://raw.githubusercontent.com/TomaszBanas/different-thoughts/main/Studies/exams.md"
