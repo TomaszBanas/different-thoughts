@@ -13,11 +13,11 @@
 
         [ ] Bungee
 
-        [ ]  Travel to America
+        [ ] Travel to America
 
-        [ ]  Go to Tomorrowland
+        [ ] Go to Tomorrowland
 
-        [ ]  Travel to Japan
+        [ ] Travel to Japan
 
         [ ] Go on a Solo Travel Adventure
         
